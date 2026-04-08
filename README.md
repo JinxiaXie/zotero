@@ -1,6 +1,6 @@
-1、安装zotero安装包
+1、安装zotero安装包: https://www.zotero.org/
 
-2、浏览器中安装zotero快捷插件，后续在arxive或者谷歌学术等页面中可以点击“快捷插件”即可下载pdf到zotero。
+2、浏览器中安装zotero快捷插件，后续在arxive或者谷歌学术等页面中可以点击浏览器右上角的“zotero”插件图标即可下载pdf到本地zotero。
 
 3、zotero联合word写中文文档，插入参考文献可实现自动排号，首先在wps（或者word中加载项添加zotero）。wps为例：加载项选择C:\Program Files\Zotero\integration\word-for-windows\Zotero.dotm。后续具体插入文献操作请自学摸索或者百度。
 
