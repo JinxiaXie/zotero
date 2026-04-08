@@ -8,4 +8,4 @@
 
 5、坚果云同步，同步方式选择“WebDAV”。有个密码在坚果云里面随机生成（现在改成要下载客户端才能看到密码了），用户名是账号
 
-6、翻译插件，可实现划词翻译，下载.xpi文件：https://github.com/windingwind/zotero-pdf-translate，拖拽到zotero的插件安装处
+6、翻译插件，可实现划词翻译，下载.xpi文件：https://github.com/windingwind/zotero-pdf-translate ，拖拽到zotero的插件安装处
