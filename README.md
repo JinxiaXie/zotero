@@ -1,3 +1,6 @@
+# 超好用文件阅读和管理工具zotero自用笔记
+## 笔记本、平板等多设备同步，word写论文时插入参考文献自动排序
+
 1、安装zotero安装包: https://www.zotero.org/
 
 2、浏览器中安装zotero快捷插件，后续在arxive或者谷歌学术等页面中可以点击浏览器右上角的“zotero”插件图标即可下载pdf到本地zotero。如果是知网，需要复制refworks到粘贴板，然后在zotero中ctrl+shift+alt+i，就可以添加条目信息。
